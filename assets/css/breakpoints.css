@@ -1,0 +1,22 @@
+@media (min-width:1000px) {
+    
+.container {
+    flex-direction: row;
+    margin: 7.4em 0;
+    justify-content: center;
+}
+
+.orange-bg {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 0;
+  }
+  
+  
+  .very-dark-cyan {
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 10px;
+  }
+
+}
